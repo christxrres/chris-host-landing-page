@@ -6,7 +6,7 @@ O projeto simula o site de uma empresa de hosting, apresentando serviços, plano
 
 ## 🚀 Demonstração
 
-🔗 GitHub Pages: *[Link](link)*
+🔗 GitHub Pages: *[Link](https://christxrres.github.io/chris-host-landing-page/)*
 
 ## 🛠️ Tecnologias utilizadas
 
